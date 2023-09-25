@@ -1,2 +1,2 @@
-# GuessTheNumberProject
+# UdemyProjects
 Project of game
